@@ -1,11 +1,17 @@
 <h1 align="center">Hi 👋, I'm Shubham Singh Rathore</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from India📍</h3>
 
 <div align="center">
 <img width="300" alt="desktop-oil-painting" src="https://i.pinimg.com/564x/42/7f/f7/427ff74b6e2c0623e270c6b700c9dbb0.jpg">
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhcodes3&label=Profile%20views&color=0e75b6&style=flat" alt="shubhcodes3" /> </p>
+
+- 🔭 I’m currently working on: **Frontend development and Machine learning.**
+
+- 👯 I’m looking to collaborate on: **Fullstack projects.**
+
+- 💬 Ask me about: **JavaScript,CSS3,HTML5,Tailwind,Python and any general software development questions.**
 
 - 📫 How to reach me **shubhamsingh5169@gmail.com**
 
@@ -26,3 +32,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubhcodes3&show_icons=true&locale=en" alt="shubhcodes3" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhcodes3&" alt="shubhcodes3" /></p>
+
